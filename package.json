@@ -1,0 +1,21 @@
+{
+  "name": "incubator",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.4.13"
+  },
+  "dependencies": {
+    "6to5": "^1.15.0",
+    "6to5-loader": "^0.2.4",
+    "axios": "^0.4.2",
+    "source-map-loader": "^0.1.3",
+    "tcomb": "^0.3.6",
+    "traceur-loader": "^0.6.3"
+  }
+}
